@@ -1,0 +1,10 @@
+C:\Users\Bartosz\source\repos\Otwieranie plików\Otwieranie plików\bin\Debug\Otwieranie plików.exe.config
+C:\Users\Bartosz\source\repos\Otwieranie plików\Otwieranie plików\bin\Debug\Otwieranie plików.exe
+C:\Users\Bartosz\source\repos\Otwieranie plików\Otwieranie plików\bin\Debug\Otwieranie plików.pdb
+C:\Users\Bartosz\source\repos\Otwieranie plików\Otwieranie plików\obj\Debug\Otwieranie plików.csproj.AssemblyReference.cache
+C:\Users\Bartosz\source\repos\Otwieranie plików\Otwieranie plików\obj\Debug\Otwieranie_plików.Form1.resources
+C:\Users\Bartosz\source\repos\Otwieranie plików\Otwieranie plików\obj\Debug\Otwieranie_plików.Properties.Resources.resources
+C:\Users\Bartosz\source\repos\Otwieranie plików\Otwieranie plików\obj\Debug\Otwieranie plików.csproj.GenerateResource.cache
+C:\Users\Bartosz\source\repos\Otwieranie plików\Otwieranie plików\obj\Debug\Otwieranie plików.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\source\repos\Otwieranie plików\Otwieranie plików\obj\Debug\Otwieranie plików.exe
+C:\Users\Bartosz\source\repos\Otwieranie plików\Otwieranie plików\obj\Debug\Otwieranie plików.pdb
